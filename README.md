@@ -8,6 +8,8 @@ A real-time, GPU-accelerated black hole renderer built in Python — simulating 
 
 
 
+
+
 ## Why I built this
 
 I've always been fascinated by black holes — specifically how something with no light of its own can still produce one of the most visually iconic effects in physics: gravitational lensing. The spark for this specific project came from a video I watched on Kavan's YouTube channel, where he simulated a black hole in C++. Watching that made me want to attempt the same idea myself — but in Python, since that's the language I'm more comfortable with and wanted to push further in.
